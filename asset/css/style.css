@@ -1,0 +1,12 @@
+body {
+    background-color: #000000;
+}
+
+.logo-heading-styling {
+    color: #ecd23c;
+    text-align: right;
+    padding-top: 50px;
+    margin-right: 50px;
+    font-family: libre-franklin, raleway, sans;  /** libre franklin got off the googole fonts website , raleway cause we used it in a website at work and sans from the glenveagh homes website**/
+    font-weight: 500px;
+}
