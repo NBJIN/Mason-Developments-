@@ -1,5 +1,10 @@
+/**
+change colour from black to grey at the 
+moment so i can see items that are to be placed on the pages
+will revert back to black when css styling applied
+**/
 body {
-    background-color: #000000;
+    background-color: grey;
 }
 
 .logo-heading-styling {
